@@ -17,3 +17,7 @@ The aims are:
     make
     
     make clean
+    
+    
+用法：
+    下载源代码后，在根目录执行make命令，即可生产相应的可执行文件。
